@@ -11,9 +11,10 @@ Step to host website on AWS
 4. connect to ec2 machine
 
 5. install httpd webserver in machine(used to run web app)
- sudo su
- yum update -y
- yum install httpd -y [image](https://github.com/user-attachments/assets/56e3e8d9-b04c-4fa3-aa96-8802c52cb70c)
+ 
+ /     sudo su   /
+ /  yum update -y   /
+ / yum install httpd -y [image](https://github.com/user-attachments/assets/56e3e8d9-b04c-4fa3-aa96-8802c52cb70c)  /
 
  cd /var/www/html
  create website 
