@@ -20,4 +20,4 @@ Step to host website on AWS
  / create website  /
  / service httpd start [image](https://github.com/user-attachments/assets/c44c106c-a66b-4632-a0bc-975b1d0b422d)   /
 
-7. access website from browser using ec2 public ip or DNS [image](https://github.com/user-attachments/assets/bdc69fdf-e06b-4043-9a71-f5de3a72d811)
+6. access website from browser using ec2 public ip or DNS [image](https://github.com/user-attachments/assets/bdc69fdf-e06b-4043-9a71-f5de3a72d811)
